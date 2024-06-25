@@ -11,7 +11,7 @@ Please anticipate regular and significant modifications to this repository. It i
 |                            Contest                            | Findings |                                 Audit Report                                  |
 | :-----------------------------------------------------------: | :------: | :---------------------------------------------------------------------------: |
 | [DittoETH](https://www.code4rena.com/audits/2024-03-dittoeth) |    1M    |                                      TBD                                      |
-|     [DYAD](https://www.code4rena.com/audits/2024-04-dyad)     |  2H, 2M  |                                      TBD                                      |
+|     [DYAD](https://www.code4rena.com/audits/2024-04-dyad)     |  2H, 2M  | [📄](https://github.com/0xSecuri/audits/blob/main/reports/contests/DYAD.md)   |
 |   [LoopFi](https://www.code4rena.com/audits/2024-05-loopfi)   |    1H    | [📄](https://github.com/0xSecuri/audits/blob/main/reports/contests/LoopFi.md) |
 
 ## Contact
